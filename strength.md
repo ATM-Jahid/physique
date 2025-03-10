@@ -25,57 +25,48 @@ progression scheme for all exercises individually. If you are not challenged
 after performing the exercise, change it.
 
 ## The training
-Upper 1
-T2
-- incline bench press
-- lat pulldown
-T3
-- cable lateral raise / cable y raise
-- overhead tricep extension / lat pullover
-- external rotation / external rotation press
+- Upper 1
+	- T2
+		- incline bench press
+		- lat pulldown
+	- T3
+		- external rotation / external rotation press
+		- overhead tricep extension / cable y raise
+		- lat pullover / facepull
+		- assisted dip / assisted pullup
 
-Lower 1
-T2
-- squat
-- sldl
-T3
-- reverse lunge / cossack squat
-- landmine shoulder press / Meadows row
-- landmine chest press / landmine 180
-- cable crunch / facepull
+- Lower 1
+	- T2
+		- squat
+		- sldl
+	- T3
+		- reverse lunge / cossack squat (with kb)
+		- landmine rotational press / Meadows row
+		- landmine chest press / landmine 180
+		- cable crunch
 
-Upper 2
-T2
-- overhead press
-- seated row
-T3
-- BTNP / good morning
-- incline db press / incline bicep curl
-- hanging routine (define)
+- Upper 2
+	- T2
+		- overhead press
+		- seated row
+	- T3
+		- good morning / BTNP
+		- incline db press / incline bicep curl
+		- hanging routine:
+			- shoulder dislocations
+			- one arm hang
+			- scap pullup
+			- negative pullup
 
-Lower 2
-T2
-- deadlift
-- front squat
-T3
-- back extension / kettlebell complex
-- shoulder floor routine (define)
-- calf raise / leg raise
-
-Hanging routine
-- scap pullup
-- single scap pull
-- shoulder dislocations
-- one arm hang
-
-Kettlebell complex
-- swing
-- clean & press
-- squat
-- snatch
-
-Shoulder floor routine
-- external rotation
-- y raise
-- w raise
-- around the world
+- Lower 2
+	- T2
+		- deadlift
+		- front squat
+	- T3
+		- back extension / kb clean & press
+		- calf raise / leg raise
+		- shoulder floor routine:
+			- external rotation
+			- y raise
+			- w raise
+			- around the world
