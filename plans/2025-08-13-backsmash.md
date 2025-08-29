@@ -11,49 +11,34 @@ Prioritize back and rehab. Plan rehab for the following:
 - Serratus anterior
 
 ## How to train?
-TBD
+Myorep sets but lengthened partials for the makeup reps.
+The set/rep scheme for individual exercises needs to be added.
 
 ## The plan
-Rough list of exercises:
+I still need to add the rehab plan.
 
 - Upper 1
 	- barbell row
-	- pullup
-	- db pullover
-
-	- incline bench press
-	- dip
-
-	- db overhead press
-	- overhead tricep extension
-
-- Lower 1
-	- squat
-	- sldl
-
+	- db overhead press / overhead tricep extension
+	- db pullover / db lateral raise
+	- pullup / dip
 	- back extension
 
-	- candlestick
-	- cable crunch
+- Lower 1
+	- seated good morning / hip abduction
+	- squat
+	- sldl / bulgarian split squat
+	- back extension / candlestick
 
 - Upper 2
 	- lat pulldown
 	- flexion row
-	- negative pullup
-
-	- overhead press
-	- BTNP
-
-	- incline db press
-
-	- db lateral raise
-	- incline bicep curl
+	- incline db press / incline bicep curl
+	- overhead press / BTNP
+	- negative pullup / back extension
 
 - Lower 2
 	- front squat
-	- nordic curl
-
-	- back extension
-
+	- nordic curl / atg split squat
 	- calf raise
-	- leg raise
+	- back extension / leg raise
