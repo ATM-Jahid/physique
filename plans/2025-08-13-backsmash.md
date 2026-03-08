@@ -11,11 +11,10 @@ Prioritize back and rehab. Plan rehab for the following:
 - Serratus anterior
 
 ## How to train?
-Myorep sets but lengthened partials for the makeup reps.
-The set/rep scheme for individual exercises needs to be added.
+Train close to failure. Try to increase resistance for all exercises.
 
 ## The plan
-I still need to add the rehab plan.
+The rehab is not clearly planned out. Use judgment.
 
 - Upper 1
 	- barbell row
@@ -25,20 +24,20 @@ I still need to add the rehab plan.
 	- back extension
 
 - Lower 1
-	- seated good morning / hip abduction
+	- seated good morning / hip abduction-adduction
 	- squat
-	- sldl / bulgarian split squat
+	- romanian deadlift / bulgarian split squat
 	- back extension / candlestick
 
 - Upper 2
 	- lat pulldown
-	- flexion row
 	- incline db press / incline bicep curl
-	- overhead press / BTNP
-	- negative pullup / back extension
+	- jefferson curl / behind the neck press
+	- neutral grip pullup
+	- back extension
 
 - Lower 2
 	- front squat
 	- nordic curl / atg split squat
-	- calf raise
-	- back extension / leg raise
+	- calf raise / leg raise
+	- back extension / hang
