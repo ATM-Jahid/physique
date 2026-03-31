@@ -1,8 +1,10 @@
 # Strength
+
 *We broke our back trying to carry a cow on our back.*
 - An Unknown Dumbass
 
 ## What to train?
+
 Prioritize back and rehab. Plan rehab for the following:
 - Lower back
 - Knee and hip
@@ -11,9 +13,11 @@ Prioritize back and rehab. Plan rehab for the following:
 - Serratus anterior
 
 ## How to train?
+
 Train close to failure. Try to increase resistance for all exercises.
 
 ## The plan
+
 The rehab is not clearly planned out. Use judgment.
 
 - Upper 1
